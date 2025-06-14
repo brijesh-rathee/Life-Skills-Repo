@@ -1,4 +1,4 @@
-# Grit and Growth Mindset
+# Grit and Growth
 
 ---
 
