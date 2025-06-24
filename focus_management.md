@@ -11,25 +11,7 @@
 
 ---
 
-## 2. Optimal Duration for Deep Work
-
-- The brain can sustain intense focus for **about 1 to 4 hours** a day.
-- Beginners should aim for **60–90 minutes** of deep work at a time.
-- With practice, this can be extended to **multiple sessions** a day.
-- Frequent breaks and rest are crucial to maintain quality and avoid burnout.
-
----
-
-## 3. Are Deadlines Good for Productivity?
-
-- Yes, deadlines **impose urgency** and **help prioritize tasks**.
-- They reduce procrastination by limiting available time, promoting focus.
-- However, artificial or unrealistic deadlines can cause stress and reduce quality.
-- Use **meaningful, self-imposed deadlines** for better results.
-
----
-
-## 4. How to Do Deep Work Properly (According to the Author)
+## 2. How to Do Deep Work Properly?
 
 1. **Work in sessions:** Schedule blocks of deep work time.
 2. **Eliminate distractions:** Turn off notifications, social media, and emails.
@@ -41,7 +23,7 @@
 
 ---
 
-## 5. How to Implement These Principles in Day-to-Day Life
+## 3. How to Implement These Principles in Day-to-Day Life?
 
 - **Morning deep work:** Start the day with 1–2 hours of focused work.
 - **Digital detox:** Set fixed times for checking emails and social media.
@@ -52,7 +34,7 @@
 
 ---
 
-## 6. Dangers of Social Media (Brief Summary)
+## 4. Dangers of Social Media 
 
 - **Addictive by design:** Constant notifications and updates hijack attention.
 - **Reduces focus:** Frequent use shortens attention span.
@@ -62,33 +44,3 @@
 
 ---
 
-## 7. Intentionally Creating Diffused Mode
-
-**Diffused Mode** is when your brain is relaxed and not actively working on a problem, allowing subconscious processing.
-
-### Activities that promote diffused mode:
-
-- Meditation
-- Walking without devices
-- Standing/sitting/lying in silence
-- Doing chores mindfully
-
-These practices improve creativity, reduce mental fatigue, and prepare your mind for deeper focus.
-
----
-
-## 8. Getting Started on Difficult Tasks (Overcoming Procrastination)
-
-Procrastination often stems from **emotional avoidance** (fear, boredom, frustration).
-
-### 3-Step Technique:
-
-1. **Work for just 30 seconds.**
-2. **Take a short break.**
-3. **Affirm your ability**:
-   - "This task is hard but I am capable."
-   - "This is boring but I can handle it."
-
-Repeat the cycle and **gradually increase work duration**. This builds momentum and shifts identity from "avoider" to "doer."
-
----
